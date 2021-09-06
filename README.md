@@ -1,3 +1,3 @@
-Hi! I'm Adam Cevallos, a student in Texas A&M's class of 2023.
+Hi! I'm Adam Cevallos, a junior at Texas A&M University.
 
-I am pursuing a B.S in Computer Science and am currently learning full stack web development with Javascript.
+I am currently learning full stack web development with Javascript.
